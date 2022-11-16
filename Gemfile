@@ -63,3 +63,6 @@ end
 
 gem 'rspec-rails', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
+
+# THIS IS THE SIMPLE FORM GEM THAT I WAS TOLD TO INSTALL BY THE INSTRUCTIONS ON KITT. I THINK IT WILL BE HELPFUL. I LIKE TO CODE
+gem "simple_form", github: "heartcombo/simple_form"
